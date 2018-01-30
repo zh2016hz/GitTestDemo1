@@ -6,6 +6,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import java.util.HashMap;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -26,5 +28,8 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this,"XXXXXXXX",Toast.LENGTH_LONG).show();
             }
         });
+        HashMap<String, String> stringStringHashMap = new HashMap<>();
+        stringStringHashMap.put("name","服从你");
+        viewById2.setText(stringStringHashMap.get("name"));
     }
 }
