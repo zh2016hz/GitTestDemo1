@@ -31,5 +31,6 @@ public class MainActivity extends AppCompatActivity {
         HashMap<String, String> stringStringHashMap = new HashMap<>();
         stringStringHashMap.put("name","服从你");
         viewById2.setText(stringStringHashMap.get("name"));
+        String  sss = "少时诵诗书所所所所";
     }
 }
