@@ -16,6 +16,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
+<<<<<<< HEAD
     <Button
         android:id="@+id/bt_1"
         android:layout_width="match_parent"
@@ -30,5 +31,8 @@
         android:text="cao "
         android:background="#2f0f"
         />
+=======
+
+>>>>>>> 不知道提交的什么鬼
 
 </LinearLayout>
