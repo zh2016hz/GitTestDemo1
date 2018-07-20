@@ -2,6 +2,7 @@ package com.example.xn069392.gittestprogroum;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
@@ -34,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         String  sss = "少时诵诗书所所所所";
 
         String s = new String();
+        Log.e(TAG, "onCreate: "+"cao尼玛" );
         s+= sss;
 
     }
