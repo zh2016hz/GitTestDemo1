@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         String  sss = "少时诵诗书所所所所";
 
         String s = new String();
-        Log.e("shabi", "onCreate: "+"cao尼玛" );
+        Log.e("shabig", "onCreate: "+"cao尼玛" );
         s+= sss;
 
     }
