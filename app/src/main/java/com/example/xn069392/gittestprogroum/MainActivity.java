@@ -46,6 +46,8 @@ public class MainActivity extends AppCompatActivity {
         Log.e("shabig", "onCreate: "+"cao尼玛" );
         Log.e("shabig", "onCreate: "+"cao尼玛" );
         Log.e("shabig", "onCreate: "+"cao尼玛" );
+        Log.e("shabig", "onCreate: "+"不敢擦啛啛喳喳错错错错错错错错错错错错错错错" );
+        Log.e("shabig", "onCreate: "+"不敢擦啛啛喳喳错错错错错错错错错错错错错错错" );
         s+= sss;
 
     }
